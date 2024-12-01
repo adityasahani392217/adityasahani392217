@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sahani</h1>
-<h3 align="center">Passionate Coder | Tech Explorer | Ethical Hacker | Shaping Tomorrow's Tech Today</h3>
+<h3 align="center">Passionate Coder | Tech Explorer | Shaping Tomorrow's Tech Today</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasahani392217&label=Profile%20views&color=0e75b6&style=flat" alt="adityasahani392217" /> </p>
 
