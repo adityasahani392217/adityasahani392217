@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@aditya_sahani21" target="blank"><img src="https://img.shields.io/twitter/follow/@aditya_sahani21?logo=twitter&style=for-the-badge" alt="@aditya_sahani21" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
+- 🌱 I’m currently learning 
 
-- 🌱 I’m currently learning **netwroking**
-
-- 👯 I’m looking to collaborate on **Ethical Hacking**
+- 👯 I’m looking to collaborate
 
 - 🤝 I’m looking for help with **Creating a big hacker and programmers community**
 
