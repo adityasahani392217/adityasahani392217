@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **c,cpp,python,java,html,css,etc**
 
-- 📫 How to reach me **adityasahani392217@outlook.com**
+- 📫 How to reach me **connect.adityasahani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
