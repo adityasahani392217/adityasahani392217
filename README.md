@@ -7,7 +7,7 @@ Exploring Artificial Intelligence, Generative AI, and Software Development throu
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Artificial Intelligence student (IBCP) at **Aspee Nutan Academy, Mumbai**
 - 💡 Interested in **AI, Generative AI, Data Science, Web Development, and Cybersecurity**
@@ -17,46 +17,44 @@ Exploring Artificial Intelligence, Generative AI, and Software Development throu
 
 ---
 
-### 🔗 Portfolio & Projects
+## 🔗 Portfolio & Projects
 
 💻 GitHub Projects  
-https://github.com/adityasahani392217
+👉 https://github.com/adityasahani392217  
 
 🌐 Website Project  
-https://gconstruction.in
+👉 https://gconstruction.in
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-**Programming Languages**
-- Python
-- C
-- C++
-- Java
-- JavaScript
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**Web Development**
-- HTML
-- CSS
-- PHP
-- MySQL
+### Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**AI & Data Tools**
-- Streamlit
-- Pandas
-- NumPy
-- Generative AI Tools
+### AI & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Tools**
-- Git
-- GitHub
-- Linux
-- Google Colab
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adityasahani392217&show_icons=true&theme=tokyonight" />
@@ -72,12 +70,11 @@ https://gconstruction.in
 
 ---
 
-### 📫 Connect With Me
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/adityasahani392217
-- Email: connect.adityasahani@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adityasahani
-- Phone: +91 93217 95121
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/adityasahani392217)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityasahani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:connect.adityasahani@gmail.com)
 
 ---
 
