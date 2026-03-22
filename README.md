@@ -118,7 +118,7 @@ class AdityaSahani:
 ## `⟨ BADGE_ROADMAP ⟩`
 
 <details>
-<summary><b>🏆 How I'm earning GitHub Achievement Badges — click to expand</b></summary>
+<summary><b>🏆 How to earn GitHub Achievement Badges — click to expand</b></summary>
 
 | 🏅 BADGE | UNLOCK CONDITION | SOLO? | TIERS |
 |:---|:---|:---:|:---|
@@ -128,12 +128,11 @@ class AdityaSahani:
 | 🧠 **Galaxy Brain** | Get **2 accepted answers** in Discussions | ✅ | x8 → x16 → x32 |
 | 🤝 **Pair Extraordinaire** | Co-author a merged PR | 👥 | x10 → x24 → x48 |
 | 🌟 **Starstruck** | Repo earns **16+ stars** | 📣 | x128 → x512 → x4096 |
-| 💖 **Public Sponsor** | Sponsor any dev via GitHub Sponsors | ✅ | None |
 
 ```
-🚀 MY SPRINT PLAN — all 3 doable in < 30 mins on your own repos:
+🚀 SPRINT PLAN (< 30 mins, solo, on your own repos):
   Step 1 → ⚡ Quickdraw  : Open an issue → close it immediately
-  Step 2 → 🔥 YOLO       : Make a branch → PR → merge yourself
+  Step 2 → 🔥 YOLO       : Branch → PR → merge, no review
   Step 3 → 🦈 Pull Shark : Do 2 PRs total across any of your repos
 ```
 
@@ -165,10 +164,11 @@ class AdityaSahani:
   </picture>
 </div>
 
-<!-- FOOTER — using waving type (most reliable) reversed -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0050,50:0d0030,100:070714&height=100&section=footer" />
+---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4500&pause=1200&color=555555&center=true&vCenter=true&width=700&lines=%5BNEURAL-OS%5D+Session+ended.+Thanks+for+visiting+⭐;%5BNEURAL-OS%5D+Drop+a+star+if+you+liked+what+you+saw!;%5BNEURAL-OS%5D+Always+building.+%F0%9F%9A%80+Shutting+down..." alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=4500&pause=1200&color=555555&center=true&vCenter=true&width=700&lines=%5BNEURAL-OS%5D+Session+ended.+Thanks+for+visiting+%E2%AD%90;%5BNEURAL-OS%5D+Drop+a+star+if+you+liked+what+you+saw!;%5BNEURAL-OS%5D+Always+building.+%F0%9F%9A%80+Shutting+down..." alt="Footer" />
+
+  <sub>Crafted with 🤖 by <b>Aditya Sahani</b> · @adityasahani392217</sub>
 </div>
-<!-- Crafted by Aditya Sahani · @adityasahani392217 -->
+<!-- ADITYA SAHANI · @adityasahani392217 -->
